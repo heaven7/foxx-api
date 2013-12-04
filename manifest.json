@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "name": "WeShare.love Api",
+  "description": "The official Api for WeShare.love",
+  "author": "Christian Grlica",
+  "controllers": {
+    "/": "app.js"
+  }
+}
